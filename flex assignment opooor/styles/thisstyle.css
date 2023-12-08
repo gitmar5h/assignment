@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color: rgb(22, 22, 27);
+    display: flex;
+    justify-content: space-between;
+    
+    color: rgb(236, 221, 193);
+    height: 4rem;
+
+}
+
+.leftnavdiv {
+   
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-left: .6rem;
+
+}
+
+.giticon {
+    font-size: 2rem;
+   
+}
+
+.rightnavdiv {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+ margin-right: .6rem;
+
+    
+}
+
+input {
+    background: none;
+    border: none;
+    width: 25rem;
+    padding: .6rem;
+    
+    
+}
+
+.dash {
+    border: 1px solid rgb(152, 151, 151);
+    border-radius: .3rem;
+   padding: .2rem;
+   margin-right: .6rem;
+   
+}
+
+button{
+    width: 4rem;
+    height: 2REM;
+    
+}
+
+.inputcontainer {
+    border: 1px solid rgb(152, 151, 151);
+    border-radius: .3rem;
+    
+    
+}
+
+.fa fa-search {
+    margin-left: 2rem;
+}
+
