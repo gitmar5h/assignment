@@ -1,0 +1,173 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #42d15a;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(14, 14, 22);
+    margin-top: 10rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 0 3rem;
+
+
+    
+}
+
+.pic {
+    
+    width: 3rem;
+    
+    
+}
+
+.enpic {
+    width: 1.4rem;
+    height: 1rem;
+}
+
+.leftnavarea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: .5rem;
+
+}
+
+
+
+div .textnav {
+    display: flex;
+    align-content: center;
+    gap: 2rem;
+    align-items: center;
+    margin-left: 10rem;
+}
+
+.textnav {
+    color: rgb(218, 217, 217);
+}
+
+.rightnavarea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin-right: 1rem;
+   gap: 1rem;
+    
+}
+
+.hulkbrandlogos {
+    color: #42d15a;
+    padding: .4rem .5rem;
+    width: .8rem;
+    background:  rgb(27, 27, 43);
+    border-radius: 50%;
+
+    
+
+}
+
+.hulklogopng {
+    padding: .4rem .5rem;
+    width: .85rem;
+    background:  rgb(27, 27, 43);
+    border-radius: 50%;
+    
+   
+
+}
+
+div.imagediv {
+    display: flex;
+    align-items: center;
+    gap: .2rem;
+    border: .85px solid rgb(163, 162, 162);
+    padding: .4rem 1rem;
+    border-radius: 2rem;
+   color: white;
+
+}
+
+
+
+section {
+
+    background-color: rgb(14, 14, 22);
+    display: flex;
+    justify-content: center;
+   
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 6rem 0rem; 
+    height: 26rem;  
+    
+
+}
+
+.hulk {
+    color: #42d15a;
+}
+
+footer.bottomsec {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3rem;
+    color: rgba(128, 128, 128, 0.723);
+    background-color: rgb(14, 14, 22);
+    padding: 2rem;
+    font-size: large;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-bottom: 10rem;
+
+    
+
+}
+
+h1{
+    color: white;
+    font-size: 3rem;
+}
+
+
+
+.circlehulk {
+   position: relative;
+   top: -14.3rem;
+   right: -5rem;
+   
+}
+
+.secptext {
+    color: white;
+    margin-top: -11rem;
+    font-size: smaller;
+}
+
+div .applogosec {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: .3rem;
+    margin-top: 2rem;
+ 
+}
+
+div .applogosec p {
+    color: #42d15a;
+}
+
+ .sapacard {
+   margin-top: -6rem;
+}
